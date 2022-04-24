@@ -8,7 +8,7 @@ import io.cucumber.java.en.When;
 public class PostStep {
     @Given("user should be logged in and should be present at its own wall")
     public void userShouldBeLoggedInAndShouldBePresentAtItsOwnWall() {
-        System.out.println("Hello");
+        System.out.println("Helloooo");
     }
 
     @When("I type the massage in the text box")
